@@ -1,0 +1,8 @@
+# Python for Social Sciences
+## Spring 2020
+
+Welcome! This is the repository for the Barnard Computational Science Center's Spring 2020 workshop, Python for Social Sciences. It is an introductory workshop on using python for data analysis that may be found in the social sciences or related fields. It is not meant as a comprehensive guide, but it can definitely get a beginner started in Python. Specifically, the workshop utilizes the Pandas library to import and manipulate dataframes. 
+
+To complete this workshop, you'll need to install Anaconda Navigator on your computer. Make sure to choose the Python 3 option. Once you've installed Anacond Navigator, open it, and double click on Jupyter Notebooks to launch Jupyter. The workshop is entirely inside of Jupyter, which allows participants to execute python code in a notebook format. Jupyter works in the browser, so it will open a window in your browser. At this point, make sure you have downloaded the entire github repository called python-social-sciences-spring20. It contains a key and a 'student' version, which allows you to fill in the code on your own (while following along with the guide). Once you've downloaded it, make sure you unzip it and choose a folder to keep all of the materials in. From there, navigate in Jupyter notebooks to the folder you've saved with the github materials, and open both the Pandas Data Analysis Key and Pandas Data Analysis Student files. 
+
+Once you have your notebooks open, you can go ahead and follow along with the guide in your student version. The guide contains explanations of the code we use. Reach out to the Computational Science Center (csc@barnard.edu) if you have questions, or if you'd like us to teach this workshop again in the future!
